@@ -24,7 +24,7 @@ This project is a Blog Management System built with Django for the backend and R
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/shamision/internship_technical_challenge.git
    cd your-repo
 
 ## Backend Setup:
