@@ -25,7 +25,6 @@ This project is a Blog Management System built with Django for the backend and R
 
    ```bash
    git clone https://github.com/shamision/internship_technical_challenge.git
-   cd your-repo
 
 ## Backend Setup:
 
